@@ -12,9 +12,10 @@ int main()
     cin.tie(NULL);
     
     // CODE commences from here
-    char str[1010];
     
+    char str[1010];
     bool flag = false;
+    
     while(gets(str))
     {
         if(flag) { cout<<"\n"; }
