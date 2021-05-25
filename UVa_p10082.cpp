@@ -33,8 +33,6 @@ int main()
         cout << "\n";
     }
 
-    //for(auto &value:m)
-        //cout << value.first << " " <<  value.second << "\n";
     return 0;
 }
 
